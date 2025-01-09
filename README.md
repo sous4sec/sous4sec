@@ -6,6 +6,4 @@
    <br>
    <br>
    <h1>
-      <br><a https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-    <h1>
     <img src="https://visit-counter.vercel.app/counter.png?page=sous4vfx&s=40&c=ffffff&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits">

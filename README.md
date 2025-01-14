@@ -61,7 +61,7 @@ Me chamo Matheus Sousa, tenho 16 anos e sou um estudante apaixonado por tecnolog
 <p align="left">
     <img 
         alt="Pixel Art" 
-        width="500" 
+        width="750" 
         src="https://soranews24.com/wp-content/uploads/sites/3/2014/12/pixel-8.gif" 
     />
 </p>

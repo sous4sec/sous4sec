@@ -6,7 +6,7 @@ Me chamo Matheus Sousa, tenho 16 anos e sou um estudante apaixonado por tecnolog
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/matheus-sousa-de-lima-b3a09a340/">
+    <a href="https://www.linkedin.com/in/matheussousa-l">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 

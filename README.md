@@ -33,16 +33,14 @@ Me chamo Matheus Sousa, tenho 16 anos e sou um estudante apaixonado por tecnolog
 
 ---
 
-### ⚙️ Tecnologia Principal
+# ⚙️ Tecnologias & Recurços Principais
 
-<p align="left">
-    <img 
-        alt="Python" 
-        title="Python" 
-        width="150px" 
-        src="https://img.shields.io/badge/Python-030314?style=for-the-badge&logo=python&logoColor=blue" 
-    />
-</p>
+![Linux](https://img.shields.io/badge/Linux-030314?style=for-the-badge&logo=linux&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-030314?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-030314?style=for-the-badge&logo=javascript&logoColor=blue)
+![C++](https://img.shields.io/badge/c++-030314.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
+![HTML](https://img.shields.io/badge/HTML-030314?style=for-the-badge&logo=html5&logoColor=blue)
+![CSS](https://img.shields.io/badge/CSS-030314?style=for-the-badge&logo=css3&logoColor=blue)
 
 ---
 
